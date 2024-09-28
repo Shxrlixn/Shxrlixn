@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I’m passionate about machine learning and data a
 - Research initiatives in AI and data science
 
 ## 📫 How to reach me...
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sherlien-molly-83042a259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) or [email](sherlie.molly@gmail.com) me at .
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sherlien-molly-83042a259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or [email](sherlie.molly@gmail.com) me at .
 
 ## 😄 Pronouns: He/Him
 
