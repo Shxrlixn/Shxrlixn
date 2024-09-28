@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Shxrlixn
+# 👋 Hi, I’m Sherlien
 
 Welcome to my GitHub profile! I’m passionate about machine learning and data analysis, and I love turning data into actionable insights.
 
