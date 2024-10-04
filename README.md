@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I’m passionate about machine learning and data a
 ## 📫 How to reach me...
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sherlien-molly-83042a259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or [email](sherlie.molly@gmail.com) me at .
 
-## 😄 Pronouns: He/Him
+## 😄 Pronouns: She/Her
 
 ## ⚡ Fun fact: 
 I once trained a model to predict the best pizza toppings based on user preferences—turns out, pineapple really is a divisive topic!
